@@ -1,14 +1,15 @@
 
 ## Navegación global y suplementaria
-![](images/Sin título.png)
+
+![](images/global.png)
 
 
 
 ## Navegacion Local
 
-![](images/Local.png)
+![](images/local.png)
 
 
-Navegación facetada
+## Navegación facetada
 
 ![](images/facetada.png)
